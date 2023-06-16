@@ -1,6 +1,7 @@
 # Stable_Diffusion_QR_Generator
 QR Generator Settings
 Comes from Twitter [@](https://twitter.com/bitfool1/status/1669555928952377345)https://twitter.com/bitfool1/status/1669555928952377345
+
 Preview requirements: 
   Checkpoints: Dreamshaper_6
   Controlnet
@@ -10,6 +11,8 @@ Preview requirements:
 QR Generator: https://zh.qr-code-generator.com/
 Keywords: masterpiece, best quality, mecha, no humans, black armor, blue eyes, science fiction, fire, laser canon beam, war, conflict, destroyed city background
 Negative: UnrealisticDream, FastNegativeEmbedding
+
+
 
 Stable Diffusion text2img setting:
 Sampling method: DPM++2M Karras
