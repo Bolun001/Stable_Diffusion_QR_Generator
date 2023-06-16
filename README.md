@@ -8,8 +8,11 @@ Preview requirements:
   inpaint_global_harmonious
     control_v1p_sd15_brightness [5f6aa6ed]
     control_v11f1e_sd15_tile[a371b31b]
+
 QR Generator: https://zh.qr-code-generator.com/
+
 Keywords: masterpiece, best quality, mecha, no humans, black armor, blue eyes, science fiction, fire, laser canon beam, war, conflict, destroyed city background
+
 Negative: UnrealisticDream, FastNegativeEmbedding
 
 
